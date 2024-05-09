@@ -1,0 +1,10 @@
+.visualization {
+    width: 100%;
+    height: 400px;
+    margin: 2rem auto;
+  }
+  
+  .visualization canvas {
+    width: 100%;
+    height: 100%;
+  }
